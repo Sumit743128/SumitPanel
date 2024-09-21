@@ -1,0 +1,15 @@
+{
+  "name": "SUMITPANEL",
+  "short_name": "SUMITPANEL",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/nolan/128/synapse-x--v1.png",
+      "sizes": "128x128",
+      "type": "png"
+    }
+  ]
+}
